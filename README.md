@@ -2,7 +2,7 @@
 ###
 
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb294ZDFzbWl0aWVnY3oweWF0NmFrYmtnYTc1a2tzbXhtdzhsOHl2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HtfFneOxp0fx6nUvYn/giphy.gif" />
+<img align="right" height="270px" width="430px" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb294ZDFzbWl0aWVnY3oweWF0NmFrYmtnYTc1a2tzbXhtdzhsOHl2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HtfFneOxp0fx6nUvYn/giphy.gif" />
 <p align="center">
 <p align="center">
   <h3> I'm 24 years AL/ML Enthusisst </h3>

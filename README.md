@@ -13,7 +13,9 @@ I am a dedicated hardworking graduate who is also curious about new technologies
 <a href="https://www.python.org/">
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
 </a>
+<a href="https://www.tensorflow.org/">
 <img align="left" alt="Tensorflow" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />
+</a>
 <img align="left" alt="Pytorch" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />

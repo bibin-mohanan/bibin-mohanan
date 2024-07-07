@@ -37,5 +37,8 @@ I am a dedicated hardworking graduate who is also curious about new technologies
 <br />
 
 ### 📊 Stats
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=bibin-mohanan&show_icons=true&theme=gotham" style="width:40%; float:left; margin:0, 10%, 0, 0" alt="bibin-mohanan" />
+</div>
 
-![Bibin's GitHub stats](https://github-readme-stats.vercel.app/api?username=bibin-mohanan&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false)
+

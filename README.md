@@ -1,12 +1,12 @@
-<h2 align="left">Hi 👋! My name is Bibin Mohanan and I'm an AL/ML Enthusiast</h2>
+<h2 align="left">Hi 👋! My name is Bibin Mohanan, and I'm an AL/ML Enthusiast</h2>
 
 <br />
 <img align="right" height="270px" width="430px" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb294ZDFzbWl0aWVnY3oweWF0NmFrYmtnYTc1a2tzbXhtdzhsOHl2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HtfFneOxp0fx6nUvYn/giphy.gif" />
 <p align="center">
 <p align="center">
-  <h3> I'm a 23 years old AL/ML Enthusiast </h3>
+  <h3> I'm an AL/ML Enthusiast </h3>
 </p>
-I am a dedicated hardworking graduate who is also curious about new technologies and their rapid progression. I am a machine learning student who wants to engage in this growth of technology and grow socially and professionally through this.
+I am a dedicated, hardworking graduate who is also curious about new technologies and their rapid progression. I am a machine learning student who wants to engage in this growth of technology and grow socially and professionally through this.
 
 ### 🧰 Languages and Tools
 
